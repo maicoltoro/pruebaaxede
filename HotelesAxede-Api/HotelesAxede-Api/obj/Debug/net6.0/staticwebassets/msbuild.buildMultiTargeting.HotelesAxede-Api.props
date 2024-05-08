@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HotelesAxede-Api.props" />
+</Project>
